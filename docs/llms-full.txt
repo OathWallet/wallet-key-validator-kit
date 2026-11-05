@@ -1,6 +1,6 @@
 # Wallet Key Validator Kit full agent context
 
-Canonical repository: https://github.com/devdasx/wallet-key-validator-kit
+Canonical repository: https://github.com/OathWallet/wallet-key-validator-kit
 
 Wallet Key Validator Kit validates crypto wallet key formats.
 

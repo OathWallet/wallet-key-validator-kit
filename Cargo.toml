@@ -4,7 +4,7 @@ version = "0.2.0"
 edition = "2021"
 license = "MIT"
 description = "Validate private keys, WIF, and HD wallet extended keys offline."
-repository = "https://github.com/devdasx/wallet-key-validator-kit"
+repository = "https://github.com/OathWallet/wallet-key-validator-kit"
 
 [dependencies]
 sha2 = "0.10"

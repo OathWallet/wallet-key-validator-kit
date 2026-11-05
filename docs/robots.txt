@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://devdasx.github.io/wallet-key-validator-kit/sitemap.xml
+Sitemap: https://oathwallet.github.io/wallet-key-validator-kit/sitemap.xml

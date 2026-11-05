@@ -1,11 +1,11 @@
 # Wallet Key Validator Kit
 
-[![CI](https://github.com/devdasx/wallet-key-validator-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/devdasx/wallet-key-validator-kit/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/devdasx/wallet-key-validator-kit?sort=semver)](https://github.com/devdasx/wallet-key-validator-kit/releases)
+[![CI](https://github.com/OathWallet/wallet-key-validator-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/OathWallet/wallet-key-validator-kit/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/OathWallet/wallet-key-validator-kit?sort=semver)](https://github.com/OathWallet/wallet-key-validator-kit/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![CocoaPods](https://img.shields.io/cocoapods/v/WalletKeyValidatorKit.svg)](https://cocoapods.org/pods/WalletKeyValidatorKit)
 [![Swift Package Index](https://img.shields.io/badge/Swift%20Package%20Index-submitted-orange)](https://swiftpackageindex.com/devdasx/wallet-key-validator-kit)
-[![Homebrew](https://img.shields.io/badge/Homebrew-devdasx%2Fcrypto--kits-blue)](https://github.com/devdasx/homebrew-crypto-kits)
+[![Homebrew](https://img.shields.io/badge/Homebrew-OathWallet%2Fcrypto--kits-blue)](https://github.com/OathWallet/homebrew-crypto-kits)
 [![npm](https://img.shields.io/badge/npm-pending-lightgrey)](https://www.npmjs.com/package/wallet-key-validator-kit)
 [![PyPI](https://img.shields.io/badge/PyPI-pending-lightgrey)](https://pypi.org/)
 [![crates.io](https://img.shields.io/badge/crates.io-pending-lightgrey)](https://crates.io/crates/wallet-key-validator-kit)
@@ -18,7 +18,7 @@ Wallet Key Validator Kit validates crypto wallet secrets and HD wallet keys with
 GitHub is the canonical source of truth:
 
 ```text
-https://github.com/devdasx/wallet-key-validator-kit
+https://github.com/OathWallet/wallet-key-validator-kit
 ```
 
 ## What it validates
@@ -43,7 +43,7 @@ https://github.com/devdasx/wallet-key-validator-kit
 Install from GitHub:
 
 ```bash
-npm install github:devdasx/wallet-key-validator-kit#0.2.0
+npm install github:OathWallet/wallet-key-validator-kit#0.2.0
 ```
 
 When npm registry publishing is configured:
@@ -57,7 +57,7 @@ The npm package is designed to be published from GitHub releases. Add an npm aut
 Use the CLI without installing globally:
 
 ```bash
-npx github:devdasx/wallet-key-validator-kit#0.2.0 walletkeycheck list-chains --pretty
+npx github:OathWallet/wallet-key-validator-kit#0.2.0 walletkeycheck list-chains --pretty
 ```
 
 ## JavaScript API

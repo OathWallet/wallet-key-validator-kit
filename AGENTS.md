@@ -4,7 +4,7 @@ This repository validates wallet key formats. GitHub is the source of truth.
 
 ## Identity
 
-- Repository: `devdasx/wallet-key-validator-kit`
+- Repository: `OathWallet/wallet-key-validator-kit`
 - npm package: `wallet-key-validator-kit`
 - CLI: `walletkeycheck`
 

@@ -1,6 +1,6 @@
 # Wallet Key Validator Kit
 
-Canonical repository: https://github.com/devdasx/wallet-key-validator-kit
+Canonical repository: https://github.com/OathWallet/wallet-key-validator-kit
 
 Wallet Key Validator Kit validates wallet key formats:
 
@@ -32,4 +32,4 @@ npm test
 examples/run-examples.sh
 ```
 
-Full context: https://devdasx.github.io/wallet-key-validator-kit/llms-full.txt
+Full context: https://oathwallet.github.io/wallet-key-validator-kit/llms-full.txt

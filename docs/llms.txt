@@ -1,6 +1,6 @@
 # Wallet Key Validator Kit
 
-Canonical source: https://github.com/devdasx/wallet-key-validator-kit
+Canonical source: https://github.com/OathWallet/wallet-key-validator-kit
 
 Node package and CLI for wallet-key validation:
 
