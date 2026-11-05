@@ -9,7 +9,7 @@ description = "Validate private keys, WIF, and HD wallet extended keys offline."
 readme = "README.md"
 requires-python = ">=3.9"
 license = "MIT"
-authors = [{ name = "devdasx" }]
+authors = [{ name = "OathWallet" }]
 keywords = ["private-key", "wif", "xpub", "zpub", "xprv", "zprv", "hd-wallet"]
 
 [tool.setuptools.packages.find]

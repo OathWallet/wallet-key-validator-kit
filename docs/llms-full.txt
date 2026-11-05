@@ -6,7 +6,7 @@ Wallet Key Validator Kit validates crypto wallet key formats.
 
 ## Identity
 
-- Repository: `devdasx/wallet-key-validator-kit`
+- Repository: `OathWallet/wallet-key-validator-kit`
 - npm package: `wallet-key-validator-kit`
 - CLI: `walletkeycheck`
 - Version: `0.2.0`
